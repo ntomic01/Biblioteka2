@@ -1,0 +1,6 @@
+public interface Blabla {
+
+    public abstract TipUplateClanarine trenutniTipUplate(); // gleda koji je tip uplate...
+    public abstract void promeniRezimUplate(); // sa elektronske uplate switchuje na uplataNaBankomatu i obrnuto...
+
+}
